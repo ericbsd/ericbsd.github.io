@@ -4,7 +4,7 @@ Category: Blog
 Tags: announcement
 Slug: my-blog-is-back
 
-## Why I'm Back
+## Why the Blog Is Back
 
 A few years ago, I had a blog, but I was not actively writing, so I deleted my old blog and canceled my DigitalOcean account. Since I was not writing much, it felt like it was just sitting there collecting dust and costing money. But lately, I've been thinking about starting again. I want to share what I've learned, what I'm learning, and have a place to put my opinions on tech, open source, and everything in between.
 
