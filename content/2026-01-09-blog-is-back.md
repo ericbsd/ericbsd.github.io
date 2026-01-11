@@ -6,7 +6,7 @@ Slug: my-blog-is-back
 
 ## Why I'm Back
 
-A few years ago, I had a blog but I was not actively writing, so I deleted my old blog and canceled my DigitalOcean account. Since I was not writing much, it felt like it was just sitting there collecting dust and costing money. But lately, I've been thinking about starting again. I want to share what I've learned, what I'm learning, and have a place to put my opinions on tech, open source, and everything in between.
+A few years ago, I had a blog, but I was not actively writing, so I deleted my old blog and canceled my DigitalOcean account. Since I was not writing much, it felt like it was just sitting there collecting dust and costing money. But lately, I've been thinking about starting again. I want to share what I've learned, what I'm learning, and have a place to put my opinions on tech, open source, and everything in between.
 
 I have been thinking about this for a while, and I'm finally ready to start writing again. But I did not want to pay for a VPS just to host a blog. So I decided to try something new. I'm really familiar with Markdown due to my heavy usage of GitHub, Obsidian, and Sphinx. So I decided to use a static site generator and host it on my profile GitHub Page.
 
@@ -26,7 +26,7 @@ Nowadays, I do my technical research with ChatGPT, Claude, or sometimes Grok. I 
 
 Pelican felt natural to me because I'm already used to writing in Markdown and familiar with reStructuredText. I write notes with [**Obsidian**](https://obsidian.md/) and use [**Sphinx**](https://www.sphinx-doc.org/) for GhostBSD documentation, so Markdown is second nature. Pelican is written in Python (which I love), and it's simple enough to get started quickly.
 
-How it works? Simple. You install Pelican with Markdown support and the Markdown package.
+How it works? Simple, You install Pelican with Markdown support and the Markdown package.
 
 ```shell
 python -m pip install "pelican[markdown]" markdown
