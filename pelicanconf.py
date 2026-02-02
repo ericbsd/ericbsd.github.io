@@ -15,6 +15,10 @@ COPYRIGHT_NAME = 'Eric Turgeon'
 THEME_COLOR_AUTO_DETECT_BROWSER_PREFERENCE = True
 THEME_COLOR_ENABLE_USER_OVERRIDE = True
 
+# Syntax highlighting
+PYGMENTS_STYLE = 'github'  # Light mode
+PYGMENTS_STYLE_DARK = 'native'  # Dark mode
+
 # Static files
 STATIC_PATHS = ['images']
 SITELOGO = '/images/hung_me.jpg'
