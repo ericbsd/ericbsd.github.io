@@ -1,6 +1,6 @@
 Title: My Blog Is Back
 Date: 2026-01-10
-Category: Blog
+Category: Announcement
 Tags: announcement
 Slug: my-blog-is-back
 
