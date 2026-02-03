@@ -7,6 +7,9 @@ TIMEZONE = 'America/Moncton'
 DEFAULT_LANG = 'en'
 THEME = 'theme'
 
+# Disable URL hash fragments in article links
+DISABLE_URL_HASH = True
+
 # Copyright
 COPYRIGHT_YEAR = 2026
 COPYRIGHT_NAME = 'Eric Turgeon'
