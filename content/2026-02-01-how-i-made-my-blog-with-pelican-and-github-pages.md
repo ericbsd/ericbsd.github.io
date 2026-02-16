@@ -1,7 +1,7 @@
 Title: How I Made My Blog with Pelican and GitHub Pages
 Date: 2026-02-01
 Category: Tutorial
-Tags: pelican, github-pages, python, blog, tutorial
+Tags: Pelican, GitHub-Pages, Python, tutorial
 Slug: how-i-made-my-blog-pelican-github-pages
 
 ## Introduction
