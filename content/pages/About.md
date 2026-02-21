@@ -3,7 +3,7 @@ Date: 2026-01-10
 
 # About the Blog
 
-This blog is about BSD, Linux, NAS, Open Source, programming, automation, and occasionally ranting about Open Source and tech industry trends. After being away for years, I'm back at it! I am not a professional writer, and English is not my first language, but the more I write, the better I get.
+This blog is about BSD, Linux, NAS, Open Source, programming, automation, and occasionally ranting about Open Source and tech industry trends. After being away for years, I'm back at it! I am not a professional writer, English is not my first language, and I also have dyslexia, but the more I write, the better I get.
 
 # About Me
 
